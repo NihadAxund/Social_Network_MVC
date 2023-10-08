@@ -8,5 +8,5 @@ MVC Project
 ![Responsive](https://github.com/NihadAxund/Social_Network_Z/assets/113647098/e5944d99-adb1-4d31-8239-339a39e9105f)
 
 
-https://github.com/NihadAxund/Social_Network_Z/assets/113647098/c03b8077-a89d-4561-abee-51854ab81ae6
+
 
