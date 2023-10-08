@@ -9,4 +9,16 @@ MVC Project
 
 
 
+https://github.com/NihadAxund/Social_Network_Z/assets/113647098/0fa72745-e348-4620-92ed-cc96be2a32d8
+
+
+
+https://github.com/NihadAxund/Social_Network_Z/assets/113647098/38073496-738b-4a40-8f1e-8e6ff0e95809
+
+
+
+
+
+
+
 
