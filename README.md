@@ -1,5 +1,5 @@
 # Social_Network_Z
-MVC Project
+MVC Project   Code is Private
 
 ![zustLoagin](https://github.com/NihadAxund/Social_Network_Z/assets/113647098/2d62664d-8b87-4907-a215-3aca8ceebf31)
 ![zustRegister](https://github.com/NihadAxund/Social_Network_Z/assets/113647098/68dd2ba1-752e-4d90-957d-8c1553433843)
